@@ -1,7 +1,6 @@
 # NeuroQ - AI-Powered Mental Health Platform
 
-NeuroQ is a comprehensive AI-powered platform that helps with mental health disorder detection and guidance. The system collects user inputs, analyzes them using AI models, and provides personalized suggestions for mental health support.
-
+NeuroQ is an AI-driven platform that helps users monitor and improve their mental well-being. It collects real-time inputs through mood check-ins and conversations, analyzes them using AI models, and provides personalized guidance, coping strategies, and progress reports. With 24/7 AI support, crisis resource integration, and personalized insights, NeuroQ empowers users to manage stress, anxiety, depression, and sleep issues while bridging the gap to professional mental health care
 ## 🌟 Features
 
 ### Frontend
